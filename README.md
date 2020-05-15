@@ -1,2 +1,9 @@
 # Uptask
-Project manager that allows creating projects and assigning tasks to those projects, in which they can be terminated or deleted tasks, there is also a progress bar for each project, it includes a sign up and a login for the user. Made with HTML, CSS, JavaScript, AJAX and PHP.
+Webapp de un administrador de tareas con PHP y MySQL.
+
+El proyecto incluye un login para que el usuario pueda acceder a la web, en el caso de que el usuario no tenga cuenta, puede registrarse. Se pueden crear proyectos y dentro de esos proyectos se pueden crear y eliminar tareas, esas tareas tienen un estado: completas o incompletas, el estado se puede actualizar. Incluye una barra de progreso en el que puedes revisar el avance que llevas con el proyecto por medio del estado de las tareas.
+
+Lenguajes: HTML, CSS, JavaScript, PHP.
+Base de datos: MySQL.
+Librerías: Normalize.css, Font Awesome.
+Responsive: Sí.
